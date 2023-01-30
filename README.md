@@ -12,17 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Almaz Amanzholuly (Pro100-Almaz) 👋
+### Hi there, I'm Kanat Baibatyr (kanatabdsattar) 👋
 
 [<img align="left" alt="PolyAtomicIon | LinkedIn" width="22px" src="linkedin.png" />][linkedin]
 [<img align="left" alt="PolyAtomicIon | Telegram" width="22px" src="telegram.png" />][telegram]
 <br />
 
 
-### I'm a Python and Fullstack Developer!!!
+### I'm a Frontend Developer!!!
 
 - 🔭 I am from KZ
-- 📫 I have a bachelor's degree from Nazarbayev University (Inw)  
+- 📫 I have a bachelor's degree from Astana IT University (Inw)  
 - 🌱 I enjoy developing 
 
 
