@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 ### Top languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro100-Almaz&layout=compact&hide_title=true&hide_border=true&exclude_repo=Ecoqozgalys/data,Ecoqozgalys/main_backend,legal_organization_chat_bot,stop_bullying_kz,site-for-kanat,marsacalipsis,geometry_falls_unity2019.3)
 
-[linkedin]: https://www.linkedin.com/in/almaz-amanzholuly-b022a619b/
-[telegram]: https://t.me/taskete_me
+[linkedin]: https://www.linkedin.com/in/kanat-baibatyr-300076225/
+[telegram]: https://t.me/dagama07
