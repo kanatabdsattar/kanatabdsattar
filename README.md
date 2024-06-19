@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Kanat Baibatyr (kanatabdsattar) 👋
+### Hi there, I'm Kanat Abdsattar (dagama) 👋
 
 [<img align="left" alt="PolyAtomicIon | LinkedIn" width="22px" src="linkedin.png" />][linkedin]
 [<img align="left" alt="PolyAtomicIon | Telegram" width="22px" src="telegram.png" />][telegram]
